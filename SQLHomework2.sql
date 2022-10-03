@@ -41,5 +41,5 @@ SELECT Age, COUNT(*) AS SameAge
 FROM Person
 GROUP BY Age
 
-
+--checked
 
